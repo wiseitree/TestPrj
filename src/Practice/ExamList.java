@@ -1,2 +1,4 @@
-package Practice;public class ExamList {
+package Practice;
+
+public class ExamList {
 }
